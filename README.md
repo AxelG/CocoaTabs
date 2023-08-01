@@ -1,2 +1,2 @@
-# CocoaTabs
+# CocoaTabs 🍫
 Grid based clicker
