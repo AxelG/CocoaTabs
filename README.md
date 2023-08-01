@@ -4,7 +4,7 @@ Python grid based clicker.
 
 This solution will allow you to automate the process of clicking on multiple dots spread across a grid.
 
-## Why should i need this?
+## Installation 🛠️
 
 This tool proves invaluable for repetitive tasks that involve clicking on specific grid intersections. Whether it's collecting data points from a structured spreadsheet, automating GUI testing, or assisting in pixel-perfect design verification, CocoaTabs Clicker significantly enhances productivity and accuracy by simplifying the process of precise mouse clicks.
 
