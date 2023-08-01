@@ -85,7 +85,7 @@ def draw_grid():
                 canvas.create_line(0, y, width, y, fill="#3D3024", width="3")
 
     finally:
-        app.title("CocoaTabs Grid")
+        app.title("CocoaTabs Grid v0.1")
 
 def on_closing():
     app.quit()
@@ -104,7 +104,7 @@ if __name__ == "__main__":
 
     app= tk.Tk()
     app.geometry("310x510+800+250")
-    app.title("CocoaTabs Grid")
+    app.title("CocoaTabs Grid v0.1")
     app.iconbitmap('icon.ico')
 
     transparency_value = 1
