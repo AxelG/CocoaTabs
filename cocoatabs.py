@@ -91,7 +91,7 @@ def on_closing():
     app.quit()
 
 frame = tk.Tk()
-frame.title("CocoaTabs v0.1")
+frame.title("CocoaTabs Console v0.1")
 frame.iconbitmap('icon.ico')
 
 style = ttk.Style()
