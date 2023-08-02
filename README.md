@@ -1,6 +1,6 @@
 # CocoaTabs Clicker 🍫
 
-## You must have [Pyhon](https://www.python.org/downloads/) installed!
+## You must have [Python](https://www.python.org/downloads/) installed!
 
 Python grid based clicker.
 
