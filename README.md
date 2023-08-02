@@ -12,25 +12,19 @@ This tool proves invaluable for repetitive tasks that involve clicking on specif
 
 ## Installation 🛠️
 
-**-** Download the repo's ZIP file and extract the files from the ZIP weherever you may prefer.
+2. Download the repo's ZIP file and extract the files from the ZIP weherever you may prefer to install CocoaTabs.
+
+3. For Windows, execute the **"windows_installer.bat"** file.
+
+   For MacOS, execute the **"macos_installer.sh"** file.
+
+4. Once installed, create a shortcut for the new **"CocoaTabs.bat"** file, change its name to **"CocoaTabs"**, set its icon to the **"icon.ico""** file, and copy the shortcut to your Desktop directory or wherever you may prefer.
 
 ## How to use 📖
 
-**1.** Open the terminal and navigate to the directory where you extracted the files.
+1. Execute the shortcut you created.
 
-**2.** Enter the following command to run the CocoaTabs Clicker:
-
-  **Wndows:**
-```shell
-python cocoatabs.py
-```
-
-  **macOS and Linux:**
-```shell
-python3 cocoatabs.py
-```
-
-**3.** Two new windows will appear:
+2. Two new windows will appear:
 
   - The **CocoaTabs Grid** window allows you to view, move and adjust the size of the grid across your screen.
   
@@ -38,4 +32,4 @@ python3 cocoatabs.py
 
     **Don't move your mouse until the clicking process is finished!**
 
-**4.** Once the clicking process has finished, you can close the app by clicking on the **Close App** button.
+3. Once the clicking process has finished, you can close the app by clicking on the **Close App** button.
