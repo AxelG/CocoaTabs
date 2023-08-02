@@ -14,9 +14,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Automated intersections clicking.
 - User-friendly interface.
 - Added changelog.
+- Added README file
+- Added LICENSE file
 
 ## [0.1.2] - 2023-08-02
 
 ### Added
 
 - Windows and MacOS installer.
+- Updated README file
