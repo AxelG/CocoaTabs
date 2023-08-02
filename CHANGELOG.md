@@ -23,10 +23,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Windows and MacOS installer.
 
-### Changed
+### Fixed
 
 - Optimized installation packages.
 
-- ### Changed
+### Changed
 
 - Updated README file.
