@@ -1,5 +1,7 @@
 # CocoaTabs Clicker 🍫
 
+## You must have [Pyhon](https://www.python.org/downloads/) installed!
+
 Python grid based clicker.
 
 This solution will allow you to automate the process of clicking on multiple dots spread across a grid.
