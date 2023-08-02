@@ -1,0 +1,7 @@
+## CocoaTabs v0.1.2 ##
+
+## Installation
+
+1. Extract the files from this ZIP weherever you may prefer to install CocoaTabs.
+
+2. Execute the "windows_installer.bat" file.
