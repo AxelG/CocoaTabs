@@ -117,7 +117,7 @@ if __name__ == "__main__":
 
     app= tk.Tk()
     app.geometry("310x510+800+250")
-    app.title("CocoaTabs Grid")
+    app.title("CocoaTabs Grid v0.1.2")
     app.iconbitmap('icon.ico')
 
     transparency_value = 1
