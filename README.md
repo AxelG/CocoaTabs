@@ -4,13 +4,13 @@ Python grid based clicker.
 
 This solution will allow you to automate the process of clicking on multiple dots spread across a grid.
 
-## Why download it?
+## <img src="icon.png" alt="CocoaTabs logo" height="20"> Why download it? 🌱
 
 This tool proves invaluable for repetitive tasks that involve clicking on specific grid intersections. Whether it's collecting data points from a structured spreadsheet, automating GUI testing, or assisting in pixel-perfect design verification, CocoaTabs Clicker significantly enhances productivity and accuracy by simplifying the process of precise mouse clicks.
 
 **Warning:** CocoaTabs may not work properly in desktop environments with customized themes and configurations.
 
-## Installation 🛠️
+## <img src="icon.png" alt="CocoaTabs logo" height="20"> Installation 🛠️
 
 1. For Windows, enter the **"windows"** repo's file, and download it's content.
 
@@ -24,7 +24,7 @@ This tool proves invaluable for repetitive tasks that involve clicking on specif
 
 5. Once installed, create a shortcut for the new **"CocoaTabs.bat"** file, change its name to **"CocoaTabs"**, set its icon to the **"icon.ico""** file, and copy the shortcut to your Desktop directory or wherever you may prefer.
 
-## How to use 📖
+## <img src="icon.png" alt="CocoaTabs logo" height="20"> How to use 📖
 
 1. Execute the shortcut you created.
 
