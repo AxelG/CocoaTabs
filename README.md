@@ -4,7 +4,7 @@
 
 Python grid based clicker.
 
-This solution will allow you to automate the process of clicking on multiple dots spread across a grid.
+This solution will allow you to automate the process of clicking on multiple points spread across a grid.
 
 ## <img src="icon.png" alt="CocoaTabs logo" height="20"> Why download it? 🌱
 
