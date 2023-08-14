@@ -14,17 +14,19 @@ This tool proves invaluable for repetitive tasks that involve clicking on specif
 
 ## <img src="icon.png" alt="CocoaTabs logo" height="20"> Installation 🛠️
 
-1. For Windows, enter the **"windows"** repo's file, and download it's content.
-
-   For MacOS, enter the **"macos"** repo's file, and download it's content.
+1. Download the repo's content.
    
 3. Extract the files from the ZIP weherever you may prefer to install CocoaTabs.
 
-4. For Windows, execute the **"windows_installer.bat"** file.
+   For Windows, enter the **"windows"** folder, and extract it's content.
+
+   For MacOS, enter the **"macos"** folder, and extract it's content.
+
+5. For Windows, execute the **"windows_installer.bat"** file.
 
    For MacOS, execute the **"macos_installer.sh"** file.
 
-5. Once installed, create a shortcut for the new **"CocoaTabs.bat"** file, change its name to **"CocoaTabs"**, set its icon to the **"icon.ico""** file, and copy the shortcut to your Desktop directory or wherever you may prefer.
+6. Once installed, create a shortcut for the new **"CocoaTabs.bat"** file, change its name to **"CocoaTabs"**, set its icon to the **"icon.ico""** file, and copy the shortcut to your Desktop directory or wherever you may prefer.
 
 ## <img src="icon.png" alt="CocoaTabs logo" height="20"> How to use 📖
 
