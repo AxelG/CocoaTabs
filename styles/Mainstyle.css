@@ -32,8 +32,8 @@ html, body {
 .menu {
     position: fixed;
     overflow: hidden;
-    top: 0;
-    right: 0;
+    top: 60px;
+    left: 0;
     border-style: solid;
     border-color: #3d3d3d;
     border-width: 1px;
@@ -65,6 +65,8 @@ html, body {
 
 header {
     display: flex;
+    top: 0;
+    left: 0;
     justify-content: center;
     align-items: center;
     height: 40px;
