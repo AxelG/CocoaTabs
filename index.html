@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/Mainstyle.css">
+    <title>Python Based Auto-cliclker | CocoaTabs</title>
+    <link rel="icon" href="images/icon.png" type="image/x-icon">
+
+    <script src="scripts/mainscript.js"></script>
+</head>
+
+<body>
+
+    <div id="menu" class="menu">
+        <a style="width: -webkit-fill-available;" href="downloads.html">
+            <div class="option">
+                <h1>Downloads</h1>
+            </div>
+        </a>
+        <a style="width: -webkit-fill-available;" href="documentation.html">
+            <div class="option">
+                <h1>Documentation</h1>
+            </div>
+        </a>
+    </div>
+
+    <div id="menu-ov" style="height: 100%; width: 100%; position: fixed; z-index: 998; display: none;" onclick="delMenu()"></div>
+
+    <header>
+        <div
+            style="position: relative; height: -webkit-fill-available; width: 1000px; display: flex; justify-content: center; align-items: center;">
+
+            <div style="position: absolute; left: 0; display: flex; align-items: center;">
+                <img class="menu-button" style="padding-left: 10px; height: 25px; cursor: pointer;"
+                    src="images/menu_bt.png" alt="Menu button" onclick="deployMenu()">
+                <a style="position: relative; height: 40px; cursor: pointer;" onclick="scrollToTop()">
+                    <div style="height: 100%; display: flex;">
+                        <img style="height: 40px;" src="images/icon.png" alt="CocoaTabs logo">
+                        <h1 style="padding-left: 10px;">CocoaTabs</h1>
+                    </div>
+                </a>
+            </div>
+
+            <a href="https://github.com/sad-gabi/CocoaTabs" style="position: absolute; right: 0; height: 40px;">
+                <img style="padding-right: 10px; height: 30px;" src="images/github_logo.png" alt="Github logo">
+            </a>
+
+            <a href="documentation.html" class="head-links">Documentation</a>
+            <a href="downloads.html" class="head-links">Downloads</a>
+
+        </div>
+    </header>
+
+    <main>
+        <div style="width: 1000px;">
+            <section id="header" style="padding: 0;">
+                <div><img src="images/header.png" alt="CocoaTabs header" style="width: 100%;"></div>
+            </section>
+
+            <section id="what-is">
+                <h1>What is CocoaTabs?</h1>
+                <h2>CocoaTabs is a Python based auto-clicker tool.</h2>
+                <p></p>
+                <h2>This tool proves invaluable for repetitive tasks that involve clicking on specific grid
+                    intersections. Whether it's collecting data points from a structured spreadsheet, automating GUI
+                    testing, or assisting in pixel-perfect design verification, CocoaTabs Clicker significantly enhances
+                    productivity and accuracy by simplifying the process of precise mouse clicks.
+                </h2>
+                <p></p>
+                <h2>CocoaTabs is a free to use tool, licensed under the <a
+                        href="https://www.gnu.org/licenses/gpl-3.0.en.html" style="color: #b79dff;">GNU General Public
+                        License</a>.</h2>
+            </section>
+
+            <section id="splash-1" style="padding: 0;">
+                <div><img src="images/splash-1.png" alt="CocoaTabs splash image" style="width: 100%;"></div>
+            </section>
+
+            <section id="info">
+                <h1>What you need to know</h1>
+                <h2>CocoaTabs is a Python based software, so you will need to have it installed.</h2>
+                <p></p>
+                <h2>You cand download Python <a href="https://www.python.org/downloads/"
+                        style="color: #b79dff;">clicking here.</a></h2>
+                <p></p>
+                <h2>To download CocoaTabs, <a href="downloads.html" style="color: #b79dff;">click here.</a></h2>
+                <h3>Dependencies</h3>
+                <p></p>
+                <h2>During the installation process, the following libraries will be installed:</h2>
+                <ul>
+                    <li style="margin-bottom: 10px;">Tkinter</li>
+                    <li>PyAutoGUI</li>
+                </ul>
+            </section>
+
+            <section id="end" style="background-color: #0e0e0e;">>
+                <div style="display: flex; margin-bottom: 40px;">
+                    <div style="width: 50%;">
+                        <h4>Support Me!</h4>
+                        <h5><a href="https://ko-fi.com/sadgabi" style="color: #b79dff;">sadgabi</a> at Ko-fi</h5>
+                        <h4>CocoaTabs</h4>
+                        <h5><a href="documentation.html" style="color: #b79dff;">Documentation</a> page</h5>
+                        <p></p>
+                        <h5><a href="downloads.html" style="color: #b79dff;">Downloads</a> page</h5>
+                    </div>
+                    <div style="width: 50%;">
+                        <h4>Contact</h4>
+                        <h5>sadgabi20@gmail.com</h5>
+                        <p></p>
+                        <h5><a href="https://twitter.com/sadgabi20" style="color: #b79dff;">@sadgabi20</a> at Twitter
+                        </h5>
+                        <p></p>
+                        <h5><a href="https://discord.com/users/sadgabi20" style="color: #b79dff;">sadgabi20</a> at
+                            Discord</h5>
+                    </div>
+                </div>
+
+                <h6>CocoaTabs and its web page is owned by <a href="https://github.com/sad-gabi"
+                        style="color: #b79dff;">sad-gabi.</a></h6>
+                <p style="margin: 10px;"></p>
+                <h6>Website published with <a href="https://github.com/" style="color: #b79dff;">Github pages.</a></h6>
+            </section>
+        </div>
+    </main>
+
+</body>
+
+</html>
