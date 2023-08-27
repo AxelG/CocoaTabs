@@ -17,6 +17,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - webbrowser
   - keyboard
 
+### Changed
+
+- Improved installer workflow.
+- Optimized installation packages.
+
 ## [0.1.1] - 2023-08-01
 
 ### Added
