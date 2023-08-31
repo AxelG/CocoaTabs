@@ -14,25 +14,13 @@ This tool proves invaluable for repetitive tasks that involve clicking on specif
 
 ## <img src="icon.png" alt="CocoaTabs logo" height="20"> Installation 🛠️
 
-1. Download the repo's content.
-   
-3. Extract the files from the ZIP weherever you may prefer to install CocoaTabs.
+1. Visit the [Downloading](https://github.com/sad-gabi/CocoaTabs/wiki/Downloading) documentation page and follot its intrsuctions.
 
-   For Windows, enter the **"windows"** folder, and extract it's content.
-
-   For MacOS, enter the **"macos"** folder, and extract it's content.
-
-5. For Windows, execute the **"windows_installer.bat"** file.
-
-   For MacOS, execute the **"macos_installer.sh"** file.
-
-6. Once installed, create a shortcut for the new **"CocoaTabs.bat"** file, change its name to **"CocoaTabs"**, set its icon to the **"icon.ico""** file, and copy the shortcut to your Desktop directory or wherever you may prefer.
+6. Once downloaded, follow the instructions provided at [Installing](https://github.com/sad-gabi/CocoaTabs/wiki/Installing)
 
 ## <img src="icon.png" alt="CocoaTabs logo" height="20"> How to use 📖
 
-1. Execute the shortcut you created.
-
-2. Two new windows will appear:
+1. Once you execute the app, two new windows will appear:
 
   - The **CocoaTabs Grid** window allows you to view, move and adjust the size of the grid across your screen.
   
@@ -40,4 +28,4 @@ This tool proves invaluable for repetitive tasks that involve clicking on specif
 
     **Don't move your mouse until the clicking process is finished!**
 
-3. Once the clicking process has finished, you can close the app by clicking on the **Close App** button.
+2. Once the clicking process has finished, you can close the app by clicking on the **Close App** button.
