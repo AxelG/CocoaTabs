@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Advanced "CocoaTabs Console" options
 - Locked "CocoaTabs Console" window geometry.
+- Save and Load grids feature.
 
 ### Changed
 
@@ -58,3 +59,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Improved installer workflow.
 - Optimized installation packages.
+
+### Deprecated
+
+- Default "CocoaTabs Grid" window's pixel art will be changed.
