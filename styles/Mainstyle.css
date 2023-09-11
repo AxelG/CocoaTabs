@@ -122,6 +122,7 @@ main {
 /* !!!!! SECTIONS !!!!! */
 
 section {
+    position: relative;
     width: -webkit-fill-available;
     padding: 40px;
     padding-top: 40px;
