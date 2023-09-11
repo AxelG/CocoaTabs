@@ -2,8 +2,8 @@ function closeAdv() {
     const advert = document.getElementById('advert');
     const cl_button = document.getElementById('close-adv');
 
-    advert.style.display = none;
-    cl_button.style.display = none;
+    advert.style.display = "none";
+    cl_button.style.display = "none";
 }
 
 function scrollToTop() {
