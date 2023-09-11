@@ -76,6 +76,7 @@ header {
     padding-right: 0;
     position: fixed;
     background-color: #6B34FF;
+    z-index: 998;
 }
 
 header img {
